@@ -1,3 +1,5 @@
+![image](https://github.com/ArvindeepSingh/MeowsterMind/assets/147825061/33d8f217-f85b-4a3c-9cc8-8393a38b0699)
+
 # MeowsterMind
 
 MeowsterMind is a fact posting board dedicated to the fascinating world of cats. This project, built using Create React App, provides an engaging platform for cat enthusiasts to share and discover interesting facts about our feline friends.
