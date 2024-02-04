@@ -1,4 +1,4 @@
-![image](https://github.com/ArvindeepSingh/MeowsterMind/assets/147825061/33d8f217-f85b-4a3c-9cc8-8393a38b0699)
+![animesher com_cat-kitten-small-216720](https://github.com/ArvindeepSingh/MeowsterMind/assets/147825061/77f09e59-bd5d-488b-840c-a151b89dad92)
 
 # MeowsterMind
 
